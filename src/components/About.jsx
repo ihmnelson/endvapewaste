@@ -12,7 +12,7 @@ const About = () => {
           <div className="max-w-[1000px] w-full grid grid-cols-2 gap-8 mb-4">
             <div className="sm:text-right pb-8 pl-4">
               <p className="text-4xl font-bold inline border-b-4 border-cyan-500">
-                About
+                The Problem
               </p>
             </div>
             <div></div>
@@ -20,17 +20,13 @@ const About = () => {
           <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
             <div className="sm:text-right text-4xl font-bold">
               <p>
-                Hi. I'm Taminoturoko Briggs, nice to meet you. Please take a
-                look around.
+                Over 60,000 disposable e-cigarettes (vapes) are sold a day in the US alone. (CDC) 
               </p>
             </div>
             <div>
               <p>
                 {" "}
-                A software developer with experience in building Responsive and
-                Scalable Web apps. I am well-knowledged in UI/UX principles and
-                practices. In addition to software development, I am also a
-                technical writer--simplifying topics/concepts on the web.
+                Brianna we need stuff here
               </p>
             </div>
           </div>

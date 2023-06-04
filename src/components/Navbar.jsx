@@ -4,8 +4,6 @@ import {
   FaTimes,
   FaGithub
 } from 'react-icons/fa';
-import { HiOutlineMail } from 'react-icons/hi';
-import { BsFillPersonLinesFill } from 'react-icons/bs';
 import { Link } from 'react-scroll';
 
 const Navbar = () => {
@@ -15,7 +13,7 @@ const Navbar = () => {
   return (
     <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300'>
       <div>
-        <h1 className=' font-thin text-2xl italic font-serif'>TB</h1>
+        <h1 className=' font-thin text-2xl italic font-serif'>E.V.W.</h1>
       </div>
       {/* menu */}
       <ul className='hidden md:flex gap-x-8'>
@@ -30,13 +28,13 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
-          <Link to='skills' smooth={true} duration={500}>
-            Skills
+          <Link to='news' smooth={true} duration={500}>
+            News
           </Link>
         </li>
         <li>
-          <Link to='work' smooth={true} duration={500}>
-            Work
+          <Link to='activities' smooth={true} duration={500}>
+            Activities
           </Link>
         </li>
       </ul>
@@ -88,7 +86,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='https://www.github.com/ihmnelson/'
+              href='https://www.https://github.com/ihmnelson/endvapewaste.com/ihmnelson/'
             >
               Github <FaGithub size={30} />
             </a>

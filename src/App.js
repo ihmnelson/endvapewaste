@@ -1,8 +1,8 @@
 import About from "./components/About";
 import Home from "./components/Home";
 import Navbar from "./components/Navbar";
-import Skills from "./components/Skills";
-import Works from "./components/Works";
+import News from "./components/News";
+import Activities from "./components/Activities";
 
 function App() { 
   return (
@@ -10,8 +10,8 @@ function App() {
       <Navbar />
       <Home />
       <About />
-      <Skills />
-      <Works />
+      <News />
+      <Activities />
     </div>
   );
 }
