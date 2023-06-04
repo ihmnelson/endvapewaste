@@ -11,12 +11,12 @@ const Skills = () => {
           </div> 
           <div className='w-full grid grid-cols-2 sm:grid-cols-2 gap-4 text-center py-8'>
             <a href="https://www.google.com/">
-              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+              <div className='bg-[#6763e7] shadow-md shadow-[#5752e5] hover:scale-110 duration-500'>
                   <p className='my-4'>"Put a quote here!"</p>
               </div>
               </a>
               <a href="https://www.google.com/">
-              <div className='bg-[] shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+              <div className='bg-[#6763e7] shadow-md shadow-[#5752e5] hover:scale-110 duration-500'>
                   <p className='my-4'>"Put another quote from somewhere else here!"</p>
               </div>
               </a>
