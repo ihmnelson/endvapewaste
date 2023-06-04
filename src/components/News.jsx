@@ -16,7 +16,7 @@ const Skills = () => {
               </div>
               </a>
               <a href="https://www.google.com/">
-              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+              <div className='bg-[] shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <p className='my-4'>"Put another quote from somewhere else here!"</p>
               </div>
               </a>
