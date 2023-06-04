@@ -26,7 +26,8 @@ const About = () => {
             <div>
               <p>
                 {" "}
-                Brianna we need stuff here
+                E-cigarette waste is especially harmful because it won’t biodegrade like cigarette butts, but will be broken down into microplastics and nicotine salts, heavy metals, lead, and mercury will be released into the environment. 
+Liquid nicotine is classified as acute hazardous waste by federal law. Toxic chemicals from vape waste can accumulate in ecosystems and animals, which can be transferred to other organisms, or contaminate drinking water and food.
               </p>
             </div>
           </div>
