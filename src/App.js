@@ -3,6 +3,7 @@ import Home from "./components/Home";
 import Navbar from "./components/Navbar";
 import News from "./components/News";
 import Activities from "./components/Activities";
+import DosAndDonts from "./components/DosAndDonts";
 
 function App() { 
   return (
@@ -12,6 +13,7 @@ function App() {
       <About />
       <News />
       <Activities />
+      <DosAndDonts />
     </div>
   );
 }
